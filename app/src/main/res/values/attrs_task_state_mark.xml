@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="TaskStateMark">
+        <attr name="taskState" format="enum">
+            <enum name="created" value="0"/>
+            <enum name="completed" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
